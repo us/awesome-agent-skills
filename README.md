@@ -156,6 +156,7 @@ Community-maintained skills and collections (verify before use):
 |-------|-------------|
 | [CSV Summarizer](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) | Analyze CSV files and generate insights with visualizations |
 | [Kaggle Skill](https://github.com/shepsci/kaggle-skill) | Complete Kaggle integration — account setup, competition reports, dataset/model downloads, notebook execution, submissions, and badge collection |
+| [Datacircle](https://datacircle.dev) | Find the best GTM APIs. Download every plan as one file and query it with the skill at datacircle.dev/SKILL.md |
 
 #### Integration & Automation
 
